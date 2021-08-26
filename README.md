@@ -16,6 +16,9 @@
 5. Then: ```npm install```  # or npm install --force
 6. And: ```ng serve```
 7. Navigate to `http://localhost:4200/`
+8. Build for deploy: ``` ng build --base-href="./" ```
+
+
 
 ### Folder structure
 
